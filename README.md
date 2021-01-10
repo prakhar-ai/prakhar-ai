@@ -1,7 +1,14 @@
 # Hey - I'm Prakhar
 I'm a student software developer, excited to build, develop, and create.
 Check out some of my projects below, or read my latest blog posts!
+<h2>Hi, I'm Prakhar! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<p><em>Front-end Engineer at <a href="https://www.alipay.com/">Alipay</a> . </em>
+  
+ I'm a student software developer, excited to build, develop, and create.
+Check out some of my projects below, or read my latest blog posts!
 
+<h4> Latest Blog Posts: </h4>
 <!--bp-->
 - [Using Computer Vision to OCR Registration Forms](https://www.prakharj.me/posts/using-computer-vision-to-ocr-registration-forms/) - Mon, 04 Jan 2021
 - [How to Scrape a Website Using Puppeteer in Node.js](https://www.prakharj.me/posts/how-to-scrape-a-website-using-puppeteer-in-node.js/) - Thu, 29 Oct 2020
