@@ -34,8 +34,8 @@ jobs:
     - name: Commit and push if changed
       run: |-
         git diff
-        git config --global user.email "yourskewbot@notarealdomain.com"
-        git config --global user.name "YoursKewbot"
+        git config --global user.email "ReadMeBot@notarealdomain.com"
+        git config --global user.name "ReadMeBot"
         git add -A
         git commit -m "Update blog posts" || exit 0
         git push
