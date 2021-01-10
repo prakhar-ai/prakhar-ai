@@ -1,8 +1,7 @@
 <pre>
 <h2>Hi, I'm Prakhar! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<p><em> I'm a student software developer, excited to build, develop, and create. </em></p>
 </pre>
-<p><em> I'm a student software developer, excited to build, develop, and create. </em>
-
 <h4> Latest Blog Posts: </h4>
 
 <!--bp-->
