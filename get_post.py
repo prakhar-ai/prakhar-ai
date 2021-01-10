@@ -2,7 +2,7 @@ from feedparser import parse
 
 feed = parse("https://www.prakharj.me/posts/index.xml").entries
 latest = [
-    f"""- [{feed[i].title}]({feed[i].link}) - {feed[i].published}"""
+    f"""- [{feed[i].title}]({feed[i].link}) - {" ".join(feed[i].published.split(" ",4)[:4])}"""
     for i in range(3)]
 
 farr = []
