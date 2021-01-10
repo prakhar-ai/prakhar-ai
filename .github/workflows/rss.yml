@@ -1,4 +1,4 @@
-name: Add newest YK
+name: Add new posts
 
 on:
   workflow_dispatch:
