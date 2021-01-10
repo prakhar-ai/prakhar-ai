@@ -1,6 +1,24 @@
 <pre>
 <h2>Hi, I'm Prakhar! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 <p><em> I'm a student software developer, excited to build, develop, and create. </em></p>
+	
+             ,----------------,              ,---------,
+        ,-----------------------,          ,"        ,"|
+      ,"                      ,"|        ,"        ,"  |
+     +-----------------------+  |      ,"        ,"    |
+     |  .-----------------.  |  |     +---------+      |
+     |  |                 |  |  |     | -==----'|      |
+     |  |  I LOVE DOS!    |  |  |     |         |      |
+     |  |  Bad command or |  |  |/----|`---=    |      |
+     |  |  C:\>_          |  |  |   ,/|==== ooo |      ;
+     |  |                 |  |  |  // |(((( [33]|    ,"
+     |  `-----------------'  |," .;'| |((((     |  ,"
+     +-----------------------+  ;;  | |         |,"
+        /_)______________(_/  //'   | +---------+
+   ___________________________/___  `,
+  /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+ / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+/_==__==========__==_ooo__ooo=_/'   /___________,"
 </pre>
 <h4> Latest Blog Posts: </h4>
 
