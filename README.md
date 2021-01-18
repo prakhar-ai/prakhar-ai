@@ -1,6 +1,9 @@
 <h2>Hi, I'm Prakhar! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
 <p><em> I'm a student software developer, excited to build, develop, and create. </em></p>
+
+![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=prakhar-ai&show_icons=true&theme=radical)
+
 <h4> Latest Blog Posts: </h4>
 
 <!--bp-->
