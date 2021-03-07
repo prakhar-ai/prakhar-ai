@@ -1,6 +1,6 @@
 <h2>Hi, I'm Prakhar! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<p><em> I'm a student software developer, excited to build, develop, and create. </em></p>
+<p> I'm a student software developer who builds projects in the field of Data Science, Web Development and Cyber Security. </p>
 
 <h4> Latest Blog Posts: </h4>
 
