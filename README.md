@@ -1,8 +1,8 @@
 <h2>Hi, I'm Prakhar! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<p> I'm a student software developer who builds projects in the field of Data Science, Web Development and Cyber Security. </p>
+<p><em> I'm a student software developer who builds projects in the field of Data Science, Web Development and Cyber Security.</em> </p>
 
-<p><em>I'm currently learning more about Cyber Security and building a mobile application for the [NPA](https://github.com/prakhar-ai/npa) project.</em></p>
+<p>I'm currently learning more about Cyber Security and building a mobile application for the [NPA](https://github.com/prakhar-ai/npa) project.</p>
 
 <h4> Latest Blog Posts: </h4>
 
