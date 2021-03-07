@@ -2,8 +2,6 @@
 
 <p><em> I'm a student software developer, excited to build, develop, and create. </em></p>
 
-![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=prakhar-ai&show_icons=true&theme=tokyonight)
-
 <h4> Latest Blog Posts: </h4>
 
 <!--bp-->
