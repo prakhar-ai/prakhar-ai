@@ -2,7 +2,7 @@
 
 <p> I'm a student software developer who builds projects in the field of Data Science, Web Development and Cyber Security. </p>
 
-I am currently learning more about Cyber Security and building a mobile application for the [NPA](https://github.com/prakhar-ai/npa) project.
+<p><em>I'm currently learning more about Cyber Security and building a mobile application for the [NPA](https://github.com/prakhar-ai/npa) project.</em></p>
 
 <h4> Latest Blog Posts: </h4>
 
